@@ -9,5 +9,5 @@
 - 🤔 Seeking help with finding a job in an English-speaking country.
 
 ## 📫 How to reach me
-- 📨 [Email me](jbisinotti@gmail.com)
+- 📨 Email me: jbisinotti@gmail.com
 - 🔗 Connect with me on [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-victor-bisinotti-0159b71b8/)
