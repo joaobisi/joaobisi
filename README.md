@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Ministry of Education, Brazil
 - 🌱 I’m currently learning more about backend development, generative AI, and data science.
 - 👯 I’m looking to collaborate on high-impact open-source projects.
-- 🤔 Seeking help with finding a job in an English-speaking country.
+- 🤔 Aiming to find a job in an English-speaking country.
 
 ## 📫 How to reach me
 - 📨 Email me: jbisinotti@gmail.com
