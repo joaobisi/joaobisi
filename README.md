@@ -1,4 +1,6 @@
-# Hello, world! 👋
+## Hello, world! 👋
+
+<img align='right' alt="gif the office" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5haWo4Z2MycmR1OG9tOHBjenFvNTljZG1xMzR0MGw4bWdpNWRtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tkApIfibjeWt1ufWwj/giphy.webp" width="230"/>
 
 ## About Me   
 - ⚡ Fun fact: I am a big Flamengo fan.                                                        
