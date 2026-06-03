@@ -6,8 +6,6 @@
 - 💬 Ask me about business and web development.
 - 👨🏻‍💻 I’m currently working at the Ministry of Education, Brazil, managing data collection and processing, and contributing to web development and system maintenance projects.
 - 📖 I’m currently learning more about backend development, generative AI, and data science.
-- 🤝 I’m looking to collaborate on high-impact open-source projects.
-- ️🎯 Aiming to find a job in an English-speaking country.
 
 ## 📫 How to reach me
 - 📨 Email me: jbisinotti@gmail.com
